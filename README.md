@@ -20,7 +20,7 @@ Buka aplikasi termux kemudian tuliskan perintah ini:
 pkg install git python bash cowsay figlet ruby nano
 gem install lolcat
 pip install requests mechanize six
-git clone https://github.com/indomies/instacrack
+git clone https://github.com/indomies/instacrackhax
 Cara menulis perintah:
 
 Tulis perintah menggunakan huruf kecil semua.
@@ -30,7 +30,7 @@ Tunggu proses instalasi selesai. Tanda jika sudah selesai, ada notifikasi 100% d
 2. Operasikan Instacrack Yang Sudah Terinstall Di Termux
 Gunakan perintah dibawah ini untuk mengoperasikan Instacrack.
 
-cd instacrack
+cd instacrackhax
 bash ig.sh
 Perintah tersebut juga dapat kalian gunakan untuk menjalankan Instacrack secara langsung saat pertama kali membuka aplikasi termux.
 
