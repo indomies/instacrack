@@ -19,10 +19,10 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 
 figlet -f slant "" | lolcat
-echo "  <=====================[]====================>" | lolcat
-echo "  <=====[       Tools By AyipBontos       ]=====>" | lolcat
-echo "  <=====[  website: https://termux.id     ]=====>" | lolcat
-echo "  <=====================[]====================>" | lolcat
+echo "  <=====================[Bekasi Black Hunter]====================>" | lolcat
+echo "  <=====[               Tools By INDOMIE HAXOR                ]=====>" | lolcat
+echo "  <=====[  website: https://www.indomiehaxor.blogspot.com     ]=====>" | lolcat
+echo "  <=====================[Karawang Cyber Team]====================>" | lolcat
 
 sleep 1
 
